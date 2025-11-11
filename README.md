@@ -197,9 +197,7 @@ Misra, P., & Enge, P. (2006). Global Positioning System: Signals, Measurements, 
 ## Acknowledgments
 
 Illinois Institute of Technology – Space Weather Lab
-
 Prof. Seebany Datta-Barua for mentorship in ionospheric research
-
 Supported by the Armour R&D Research Grant, Illinois Institute of Technology
 
 If used in academic or technical work, please cite as:
