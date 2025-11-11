@@ -190,11 +190,16 @@ Free for academic and research use with attribution. Commercial use prohibited.
 
 ---
 
+## References
+NASA Goddard Space Flight Center. (n.d.). CCMC IRI model run interface. Retrieved July 2025, from https://kauai.ccmc.gsfc.nasa.gov/instantrun/iri/
+Misra, P., & Enge, P. (2006). Global Positioning System: Signals, Measurements, and Performance (2nd ed.). Ganga-Jamuna Press.
+
 ## Acknowledgments
 
-International Reference Ionosphere (IRI 2020) model for electron density data
 Illinois Institute of Technology – Space Weather Lab
+
 Prof. Seebany Datta-Barua for mentorship in ionospheric research
+
 Supported by the Armour R&D Research Grant, Illinois Institute of Technology
 
 If used in academic or technical work, please cite as:
